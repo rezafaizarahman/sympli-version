@@ -281,6 +281,63 @@
 
           ],
           "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 0,
+            "y" : 672,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 48,
+            "width" : 360
+          },
+          "do_objectID" : "7E6144A4-A383-4710-B58F-A2AF44FA40AA",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "6B7628FD-EF2B-48C7-9DA7-EEAF571AFF1C",
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Material\/Android\/Navbar 360dp black",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+
+              }
+            }
+          },
+          "horizontalSpacing" : 0,
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "symbolInstance",
+          "booleanOperation" : -1,
+          "overrideValues" : [
+
+          ],
+          "resizingConstraint" : 63
         }
       ],
       "resizingType" : 0,
