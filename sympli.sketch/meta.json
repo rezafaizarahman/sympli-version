@@ -1,6 +1,15 @@
 {
   "commit" : "120f488f43e85cae5c74eeae99d970dcf7fe443d",
-  "build" : 57519,
+  "pagesAndArtboards" : {
+    "8387E4DF-2662-4447-AD77-E102BB20D953" : {
+      "name" : "Page 1",
+      "artboards" : {
+        "8DC7E71A-5C98-460C-8028-DA80DC1D571F" : {
+          "name" : "Pixel 2 XL"
+        }
+      }
+    }
+  },
   "version" : 105,
   "fonts" : [
     "SFUIText-Bold"
@@ -22,14 +31,5 @@
     "NONAPPSTORE.57519"
   ],
   "appVersion" : "51.2",
-  "pagesAndArtboards" : {
-    "8387E4DF-2662-4447-AD77-E102BB20D953" : {
-      "name" : "Page 1",
-      "artboards" : {
-        "8DC7E71A-5C98-460C-8028-DA80DC1D571F" : {
-          "name" : "Pixel 2 XL"
-        }
-      }
-    }
-  }
+  "build" : 57519
 }
