@@ -452,6 +452,63 @@
 
           ],
           "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 16,
+            "y" : 426,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 100,
+            "width" : 328
+          },
+          "do_objectID" : "E2DA8F88-D1AB-4330-B63C-0FA7C2DA0BD8",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "C7BAE33F-55B6-44C7-B7CA-0A731B91BE83",
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Misc. \/ Activity",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+
+              }
+            }
+          },
+          "horizontalSpacing" : 0,
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "symbolInstance",
+          "booleanOperation" : -1,
+          "overrideValues" : [
+
+          ],
+          "resizingConstraint" : 63
         }
       ],
       "resizingType" : 0,
