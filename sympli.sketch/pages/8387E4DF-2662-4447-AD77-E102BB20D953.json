@@ -338,6 +338,63 @@
 
           ],
           "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "verticalSpacing" : 0,
+          "style" : {
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "rotation" : 0,
+          "frame" : {
+            "x" : 0,
+            "y" : 80,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 206,
+            "width" : 360
+          },
+          "do_objectID" : "E7186186-0C79-4F56-98F3-E7B8B9D969B5",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "symbolID" : "5C61374C-7031-4FA4-A2AF-66C1638D4470",
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Photography \/ Album",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+
+              }
+            }
+          },
+          "horizontalSpacing" : 0,
+          "isLocked" : false,
+          "scale" : 1,
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "symbolInstance",
+          "booleanOperation" : -1,
+          "overrideValues" : [
+
+          ],
+          "resizingConstraint" : 63
         }
       ],
       "resizingType" : 0,
