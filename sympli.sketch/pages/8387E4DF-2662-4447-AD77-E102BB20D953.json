@@ -682,6 +682,120 @@
           "_class" : "shapeGroup",
           "booleanOperation" : -1,
           "resizingConstraint" : 63
+        },
+        {
+          "isFlippedHorizontal" : false,
+          "style" : {
+            "textStyle" : {
+              "verticalAlignment" : 0,
+              "_class" : "textStyle",
+              "encodedAttributes" : {
+                "MSAttributedStringFontAttribute" : {
+                  "attributes" : {
+                    "name" : "SFUIText-Bold",
+                    "size" : 12
+                  },
+                  "_class" : "fontDescriptor"
+                },
+                "MSAttributedStringColorAttribute" : {
+                  "red" : 0.21176470588235291,
+                  "_class" : "color",
+                  "alpha" : 1,
+                  "blue" : 0.34509803921568633,
+                  "green" : 0.25098039215686269
+                },
+                "kerning" : 0,
+                "paragraphStyle" : {
+                  "allowsDefaultTighteningForTruncation" : 0,
+                  "_class" : "paragraphStyle",
+                  "alignment" : 2
+                }
+              }
+            },
+            "windingRule" : 1,
+            "_class" : "style",
+            "miterLimit" : 10,
+            "startMarkerType" : 0,
+            "endMarkerType" : 0
+          },
+          "glyphBounds" : "{{0, 2}, {27, 10}}",
+          "frame" : {
+            "x" : 166,
+            "y" : 588,
+            "_class" : "rect",
+            "constrainProportions" : false,
+            "height" : 14,
+            "width" : 28
+          },
+          "do_objectID" : "5A460796-C35D-4566-AF45-457D433FD0D8",
+          "layerListExpandedType" : 0,
+          "exportOptions" : {
+            "shouldTrim" : false,
+            "includedLayerIds" : [
+
+            ],
+            "layerOptions" : 0,
+            "_class" : "exportOptions",
+            "exportFormats" : [
+
+            ]
+          },
+          "rotation" : 0,
+          "dontSynchroniseWithSymbol" : false,
+          "lineSpacingBehaviour" : 2,
+          "textBehaviour" : 0,
+          "isFlippedVertical" : false,
+          "nameIsFixed" : false,
+          "name" : "Text",
+          "isVisible" : true,
+          "resizingType" : 0,
+          "userInfo" : {
+            "com.animaapp.stc-sketch-plugin" : {
+              "kModelPropertiesKey" : {
+                "isAutoWidth" : 1
+              }
+            }
+          },
+          "isLocked" : false,
+          "attributedString" : {
+            "attributes" : [
+              {
+                "length" : 4,
+                "_class" : "stringAttribute",
+                "attributes" : {
+                  "MSAttributedStringFontAttribute" : {
+                    "attributes" : {
+                      "name" : "SFUIText-Bold",
+                      "size" : 12
+                    },
+                    "_class" : "fontDescriptor"
+                  },
+                  "MSAttributedStringColorAttribute" : {
+                    "red" : 0.21176470588235291,
+                    "_class" : "color",
+                    "alpha" : 1,
+                    "blue" : 0.34509803921568633,
+                    "green" : 0.25098039215686269
+                  },
+                  "kerning" : 0,
+                  "paragraphStyle" : {
+                    "allowsDefaultTighteningForTruncation" : 0,
+                    "_class" : "paragraphStyle",
+                    "alignment" : 2
+                  }
+                },
+                "location" : 0
+              }
+            ],
+            "_class" : "attributedString",
+            "string" : "Text"
+          },
+          "shouldBreakMaskChain" : false,
+          "isFixedToViewport" : false,
+          "_class" : "text",
+          "booleanOperation" : -1,
+          "resizingConstraint" : 47,
+          "automaticallyDrawOnUnderlyingPath" : false
         }
       ],
       "resizingType" : 0,
